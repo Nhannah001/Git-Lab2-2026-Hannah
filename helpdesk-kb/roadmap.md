@@ -6,3 +6,5 @@
 - Add MFA documentation
 - Add laptop imaging guide
 - Add Teams support guide
+- Add facility maps
+- Add software installation guides
