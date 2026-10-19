@@ -1,4 +1,4 @@
-# Wi‑Fi Troubleshooting Guide
+# Wi‑Fi Troubleshooting Guide :3
 
 ## Current Revision
 
