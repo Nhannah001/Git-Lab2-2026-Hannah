@@ -18,6 +18,15 @@ This guide provides common troubleshooting steps for wireless connectivity issue
 4. Restart the device.
 5. Attempt to reconnect.
 
+## Slow Wireless Connections
+
+1.1. Verify that Wi‑Fi is enabled on the device.
+2. Confirm that Airplane Mode is disabled.
+3. Ensure the correct wireless network is selected.
+4.Run the Windows Network Troubleshooter.
+5. Restart the device.
+6. Attempt to reconnect.
+
 ## Known Issues
 
 No issues currently documented.
